@@ -1,0 +1,65 @@
+# General
+/target/
+/bin/
+/classes/
+
+# IDE-specific
+*.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.jar
+
+# Logs
+logs/
+*.log
+
+# Gradle-specific
+.gradle/
+build/
+out/
+
+# Maven-specific
+/.mvn/
+mvnw
+mvnw.cmd
+mvn/
+
+# Eclipse-specific
+.settings/
+.project
+.classpath
+
+# IntelliJ-specific
+*.idea/
+*.iml
+*.ipr
+*.iws
+.idea/
+*.iml
+
+# VS Code specific
+.vscode/
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Application properties
+/application.properties
+/application.yml
+/application-{profile}.properties
+/application-{profile}.yml
+
+# Spring Boot devtools
+/.restart
